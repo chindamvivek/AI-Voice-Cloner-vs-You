@@ -7,7 +7,7 @@ This Streamlit project allows you to clone your voice using AI and compare it wi
 - Git (optional)
 - Internet connection (for Azure API)
 
-## If you hae git install in your pc you can clone this repository using
+## If you have git install in your pc you can clone this repository using
 (https://github.com/chindamvivek/AI-Voice-Cloner-vs-You.git)
 
 ## 💡 Don’t Have Git?
