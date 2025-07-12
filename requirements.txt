@@ -1,0 +1,5 @@
+streamlit
+azure-cognitiveservices-speech
+soundfile
+sounddevice
+scipy
