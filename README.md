@@ -17,7 +17,7 @@ No problem! You can still download and use the project:
 2. Select `Download ZIP`
 3. Extract it and open the folder in VS Code
 
-##After opening it in vscode follow these steps:
+## After opening it in vscode follow these steps:
 1.create a virtual environment using this command : `python -m venv venv` and after that activate the venv : `venv\Scripts\activate`
 2.then after install the libraries using : `pip install -r requirements.txt`
 3.create a speech services in microsoft aure and get the api key and region and place in the config.py file 
