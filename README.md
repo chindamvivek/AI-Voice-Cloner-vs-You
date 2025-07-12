@@ -6,7 +6,10 @@ This Streamlit project allows you to clone your voice using AI and compare it wi
 - Python 3.9 or above
 - Git (optional)
 - Internet connection (for Azure API)
-- 
+
+## If you hae git install in your pc you can clone this repository using
+[git clone]()
+
 ## 💡 Don’t Have Git?
 No problem! You can still download and use the project:
 
